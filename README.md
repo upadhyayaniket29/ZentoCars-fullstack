@@ -8,7 +8,7 @@ It offers a sleek UI, responsive frontend, and a powerful Node.js backend — pe
 ## 🖥️ Project Demo
 
 ### 🏁 Home Page
-![ZentoCars Hero Section]("https://github.com/user-attachments/assets/15270f17-7b10-48e1-a448-69a7d4ebc2e6")
+![ZentoCars Hero Section](https://github.com/user-attachments/assets/15270f17-7b10-48e1-a448-69a7d4ebc2e6)
 
 ### 🚘 Cars Listing
 ![Available Cars Section](https://github.com/user-attachments/assets/19e8af0f-815d-4084-98fa-bd86e237eca2)
