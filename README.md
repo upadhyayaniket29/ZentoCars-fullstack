@@ -8,13 +8,13 @@ It offers a sleek UI, responsive frontend, and a powerful Node.js backend — pe
 ## 🖥️ Project Demo
 
 ### 🏁 Home Page
-![ZentoCars Hero Section](https://github.com/upadhyayaniket29/ZentoCars-fullstack/assets/fa5bea65-1844-4119-a3d7-da8b54f388c6.png)
+![ZentoCars Hero Section]("https://github.com/user-attachments/assets/15270f17-7b10-48e1-a448-69a7d4ebc2e6")
 
 ### 🚘 Cars Listing
-![Available Cars Section](https://github.com/upadhyayaniket29/ZentoCars-fullstack/assets/523a8177-f979-4fad-beb1-838af1478d22.png)
+![Available Cars Section](https://github.com/user-attachments/assets/19e8af0f-815d-4084-98fa-bd86e237eca2)
 
 ### 💬 Testimonials
-![Customer Testimonials](https://github.com/upadhyayaniket29/ZentoCars-fullstack/assets/8b5b76a8-820c-493a-a440-950269c3a394.png)
+![Customer Testimonials](https://github.com/user-attachments/assets/2cf0356a-d0f6-4a10-a710-7a7271b933fc)
 
 ---
 
